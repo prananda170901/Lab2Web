@@ -10,5 +10,11 @@
 
 # 1. Membuka Dokumen HTML
 ![p](img/SS2.png)
-<br>lalu buka browser untuk melihat hasilnya
+<br>Selanjutnya buka browser untuk melihat hasilnya
 ![p](img/SS3.png)
+
+# 2. Mendeklarasikan CSS Internal
+<br>Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen. Seperti gambar dibawah ini :
+![p](img/SS4.png)
+<br>Selanjutnya buka browser kembali untuk melihat hasilnya.
+![p](img/SS5.png)
