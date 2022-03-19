@@ -18,3 +18,9 @@
 ![p](img/SS4.png)
 <br>Selanjutnya buka browser kembali untuk melihat hasilnya.
 ![p](img/SS5.png)
+
+# 3. Menambahkan Inline CSS
+<br>Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti gambar dibawah ini :
+![p](img/SS6.png)
+<br>Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+![br](img/SS7.png)
