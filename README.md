@@ -24,3 +24,11 @@
 ![p](img/SS6.png)
 <br>Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 ![br](img/SS7.png)
+
+# 4. Membuat CSS Eksternal
+<br>Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti gambar berikut :
+![p](img/SS8.png)
+<br>Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>` seperti gambar berikut :
+![p](img/SS9.png)
+<br>Selanjutnya refresh kembali browser untuk melihat perubahannya.
+![p](img/SS10.png)
