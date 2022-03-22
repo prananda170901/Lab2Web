@@ -60,3 +60,6 @@ Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` 
 <br>Pada selector body saya menambahkan properti, yaitu width, font-size, color, width, DST. Pada selector h2 saya menambahkan properti, yaitu font-width, fonth-size Pada selector .avatar saya menambahkan properti, yaitu width, border-radius Pada selector .header-profile saya menambahkan properti, yaitu justify-content, align-items
 ![p](img/SS14.png)
 <br>Pada hasil tersebut dapat dilihat, pada mode mobile lebar body terlalu ke tengah, karena widht pada selektor body diatur dengan nilai 50% pada ukuran desktop, agar dapat terlihat proporsional pada ukuran mobile dapat ditambahkan selektor @media only screen and (max-width: 760px), dan hasil nya bisa dilihat.
+![p](img/SS15.png)
+
+<br>2.Perbedaan antara element h1 {...} dengan #intro h1 {...} adalah : h1 {...} Antuk memberikan style pada semua h1 sedangkan, #intro h1 {...} Awalan simbol hash (#) memungkinkan kita untuk memberikan style pada id. selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya. Menurut saya lebih baik menggunakan selektor class untuk mendefinisikan element yang ingin diberi nilai.
