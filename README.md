@@ -51,3 +51,10 @@ penjelasan dan contohnya!
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
 Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` )
+
+# jawaban
+<br> 1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimulai dari membuat kerangka html nya. Seperti gambar berikut :
+![p](img/SS13.png)
+<br>Kemudian membuat CSS nya dengan menambahkan nilai dan properti pada kode diatas Disini Saya menambahkan 4 selector kedalam CSS, diantaranya body, h2, .avatar, .header-profile. Masing - masing memiliki fungsi untuk mengatur tampilan pada HTML
+
+<br>Pada selector body saya menambahkan properti, yaitu width, font-size, color, width, DST. Pada selector h2 saya menambahkan properti, yaitu font-width, fonth-size Pada selector .avatar saya menambahkan properti, yaitu width, border-radius Pada selector .header-profile saya menambahkan properti, yaitu justify-content, align-items
