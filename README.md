@@ -58,3 +58,5 @@ Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` 
 <br>Kemudian membuat CSS nya dengan menambahkan nilai dan properti pada kode diatas Disini Saya menambahkan 4 selector kedalam CSS, diantaranya body, h2, .avatar, .header-profile. Masing - masing memiliki fungsi untuk mengatur tampilan pada HTML
 
 <br>Pada selector body saya menambahkan properti, yaitu width, font-size, color, width, DST. Pada selector h2 saya menambahkan properti, yaitu font-width, fonth-size Pada selector .avatar saya menambahkan properti, yaitu width, border-radius Pada selector .header-profile saya menambahkan properti, yaitu justify-content, align-items
+![p](img/SS14.png)
+<br>Pada hasil tersebut dapat dilihat, pada mode mobile lebar body terlalu ke tengah, karena widht pada selektor body diatur dengan nilai 50% pada ukuran desktop, agar dapat terlihat proporsional pada ukuran mobile dapat ditambahkan selektor @media only screen and (max-width: 760px), dan hasil nya bisa dilihat.
