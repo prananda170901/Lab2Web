@@ -63,3 +63,14 @@ Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` 
 ![p](img/SS15.png)
 
 <br>2.Perbedaan antara element h1 {...} dengan #intro h1 {...} adalah : h1 {...} Antuk memberikan style pada semua h1 sedangkan, #intro h1 {...} Awalan simbol hash (#) memungkinkan kita untuk memberikan style pada id. selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya. Menurut saya lebih baik menggunakan selektor class untuk mendefinisikan element yang ingin diberi nilai.
+![p](img/SS16.png)
+
+<br>3.Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, itu dikarenakan permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu
+
+<br>Berikut merupakan hasil pengujian deklarasi CSS
+
+<br>CSS Inline `blue`
+
+<br>CSS Internal `red`
+
+<br>CSS Eksternal `yellow`
